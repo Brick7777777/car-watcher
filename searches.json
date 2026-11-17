@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Voorbeeld - pas mij aan",
+    "query": "toyota yaris",
+    "min_price": null,
+    "max_price": 15000,
+    "min_year": 2018,
+    "max_mileage_km": 100000,
+    "fuel": ["Hybride"],
+    "postcode": null,
+    "max_distance_km": null
+  }
+]

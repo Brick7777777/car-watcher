@@ -1,13 +1,11 @@
 [
   {
-    "name": "Voorbeeld - pas mij aan",
-    "query": "toyota yaris",
+    "name": "BMW Z3",
+    "query": "bmw z3",
     "min_price": null,
-    "max_price": 15000,
-    "min_year": 2018,
-    "max_mileage_km": 100000,
-    "fuel": ["Hybride"],
-    "postcode": null,
+    "max_price": 50000,
+    "min_year": 1996,
+    "max_mileage_km": 120000,
     "max_distance_km": null
   }
 ]
